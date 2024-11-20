@@ -1,0 +1,73 @@
+C:\Users\LAPTOP MSI\Documents\Đồ án Bảo mật\Demo\bin\Debug\Demo.exe.config
+C:\Users\LAPTOP MSI\Documents\Đồ án Bảo mật\Demo\bin\Debug\Demo.exe
+C:\Users\LAPTOP MSI\Documents\Đồ án Bảo mật\Demo\bin\Debug\Demo.pdb
+C:\Users\LAPTOP MSI\Documents\Đồ án Bảo mật\Demo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\LAPTOP MSI\Documents\Đồ án Bảo mật\Demo\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\LAPTOP MSI\Documents\Đồ án Bảo mật\Demo\bin\Debug\System.Buffers.dll
+C:\Users\LAPTOP MSI\Documents\Đồ án Bảo mật\Demo\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LAPTOP MSI\Documents\Đồ án Bảo mật\Demo\bin\Debug\System.Formats.Asn1.dll
+C:\Users\LAPTOP MSI\Documents\Đồ án Bảo mật\Demo\bin\Debug\System.Memory.dll
+C:\Users\LAPTOP MSI\Documents\Đồ án Bảo mật\Demo\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\LAPTOP MSI\Documents\Đồ án Bảo mật\Demo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LAPTOP MSI\Documents\Đồ án Bảo mật\Demo\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\LAPTOP MSI\Documents\Đồ án Bảo mật\Demo\bin\Debug\System.Text.Json.dll
+C:\Users\LAPTOP MSI\Documents\Đồ án Bảo mật\Demo\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\LAPTOP MSI\Documents\Đồ án Bảo mật\Demo\bin\Debug\System.ValueTuple.dll
+C:\Users\LAPTOP MSI\Documents\Đồ án Bảo mật\Demo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\LAPTOP MSI\Documents\Đồ án Bảo mật\Demo\bin\Debug\System.Buffers.xml
+C:\Users\LAPTOP MSI\Documents\Đồ án Bảo mật\Demo\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\LAPTOP MSI\Documents\Đồ án Bảo mật\Demo\bin\Debug\System.Formats.Asn1.xml
+C:\Users\LAPTOP MSI\Documents\Đồ án Bảo mật\Demo\bin\Debug\System.Memory.xml
+C:\Users\LAPTOP MSI\Documents\Đồ án Bảo mật\Demo\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\LAPTOP MSI\Documents\Đồ án Bảo mật\Demo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\LAPTOP MSI\Documents\Đồ án Bảo mật\Demo\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\LAPTOP MSI\Documents\Đồ án Bảo mật\Demo\bin\Debug\System.Text.Json.xml
+C:\Users\LAPTOP MSI\Documents\Đồ án Bảo mật\Demo\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\LAPTOP MSI\Documents\Đồ án Bảo mật\Demo\bin\Debug\System.ValueTuple.xml
+C:\Users\LAPTOP MSI\Documents\Đồ án Bảo mật\Demo\obj\Debug\Demo.csproj.AssemblyReference.cache
+C:\Users\LAPTOP MSI\Documents\Đồ án Bảo mật\Demo\obj\Debug\Demo.Login.resources
+C:\Users\LAPTOP MSI\Documents\Đồ án Bảo mật\Demo\obj\Debug\Demo.Properties.Resources.resources
+C:\Users\LAPTOP MSI\Documents\Đồ án Bảo mật\Demo\obj\Debug\Demo.csproj.GenerateResource.cache
+C:\Users\LAPTOP MSI\Documents\Đồ án Bảo mật\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP MSI\Documents\Đồ án Bảo mật\Demo\obj\Debug\Demo.csproj.CopyComplete
+C:\Users\LAPTOP MSI\Documents\Đồ án Bảo mật\Demo\obj\Debug\Demo.exe
+C:\Users\LAPTOP MSI\Documents\Đồ án Bảo mật\Demo\obj\Debug\Demo.pdb
+C:\Users\LAPTOP MSI\Documents\Đồ án Bảo mật\Demo\obj\Debug\Demo.MaHoaDoiXungCong.resources
+C:\Users\LAPTOP MSI\Documents\Đồ án Bảo mật\Demo\obj\Debug\Demo.MaHoaDoiXungNhan.resources
+C:\Users\tutok\Downloads\Đồ án Bảo mật\Demo\bin\Debug\Demo.exe.config
+C:\Users\tutok\Downloads\Đồ án Bảo mật\Demo\bin\Debug\Demo.exe
+C:\Users\tutok\Downloads\Đồ án Bảo mật\Demo\bin\Debug\Demo.pdb
+C:\Users\tutok\Downloads\Đồ án Bảo mật\Demo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tutok\Downloads\Đồ án Bảo mật\Demo\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\tutok\Downloads\Đồ án Bảo mật\Demo\bin\Debug\System.Buffers.dll
+C:\Users\tutok\Downloads\Đồ án Bảo mật\Demo\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tutok\Downloads\Đồ án Bảo mật\Demo\bin\Debug\System.Formats.Asn1.dll
+C:\Users\tutok\Downloads\Đồ án Bảo mật\Demo\bin\Debug\System.Memory.dll
+C:\Users\tutok\Downloads\Đồ án Bảo mật\Demo\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\tutok\Downloads\Đồ án Bảo mật\Demo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tutok\Downloads\Đồ án Bảo mật\Demo\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\tutok\Downloads\Đồ án Bảo mật\Demo\bin\Debug\System.Text.Json.dll
+C:\Users\tutok\Downloads\Đồ án Bảo mật\Demo\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\tutok\Downloads\Đồ án Bảo mật\Demo\bin\Debug\System.ValueTuple.dll
+C:\Users\tutok\Downloads\Đồ án Bảo mật\Demo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\tutok\Downloads\Đồ án Bảo mật\Demo\bin\Debug\System.Buffers.xml
+C:\Users\tutok\Downloads\Đồ án Bảo mật\Demo\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\tutok\Downloads\Đồ án Bảo mật\Demo\bin\Debug\System.Formats.Asn1.xml
+C:\Users\tutok\Downloads\Đồ án Bảo mật\Demo\bin\Debug\System.Memory.xml
+C:\Users\tutok\Downloads\Đồ án Bảo mật\Demo\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\tutok\Downloads\Đồ án Bảo mật\Demo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\tutok\Downloads\Đồ án Bảo mật\Demo\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\tutok\Downloads\Đồ án Bảo mật\Demo\bin\Debug\System.Text.Json.xml
+C:\Users\tutok\Downloads\Đồ án Bảo mật\Demo\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\tutok\Downloads\Đồ án Bảo mật\Demo\bin\Debug\System.ValueTuple.xml
+C:\Users\tutok\Downloads\Đồ án Bảo mật\Demo\obj\Debug\Demo.csproj.AssemblyReference.cache
+C:\Users\tutok\Downloads\Đồ án Bảo mật\Demo\obj\Debug\Demo.Login.resources
+C:\Users\tutok\Downloads\Đồ án Bảo mật\Demo\obj\Debug\Demo.MaHoaDoiXungCong.resources
+C:\Users\tutok\Downloads\Đồ án Bảo mật\Demo\obj\Debug\Demo.MaHoaDoiXungNhan.resources
+C:\Users\tutok\Downloads\Đồ án Bảo mật\Demo\obj\Debug\Demo.Properties.Resources.resources
+C:\Users\tutok\Downloads\Đồ án Bảo mật\Demo\obj\Debug\Demo.csproj.GenerateResource.cache
+C:\Users\tutok\Downloads\Đồ án Bảo mật\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+C:\Users\tutok\Downloads\Đồ án Bảo mật\Demo\obj\Debug\Demo.csproj.Up2Date
+C:\Users\tutok\Downloads\Đồ án Bảo mật\Demo\obj\Debug\Demo.exe
+C:\Users\tutok\Downloads\Đồ án Bảo mật\Demo\obj\Debug\Demo.pdb
+C:\Users\tutok\Downloads\Đồ án Bảo mật\Demo\obj\Debug\Demo.MaHoa.resources

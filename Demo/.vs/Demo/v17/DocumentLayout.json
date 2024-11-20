@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tutok\\Downloads\\\u0110\u1ED3 \u00E1n B\u1EA3o m\u1EADt\\Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E34B534-C471-453B-95FC-DD84D038D44B}|Demo.csproj|C:\\Users\\tutok\\Downloads\\\u0110\u1ED3 \u00E1n B\u1EA3o m\u1EADt\\Demo\\mahoadoixungnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E34B534-C471-453B-95FC-DD84D038D44B}|Demo.csproj|solutionrelative:mahoadoixungnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E34B534-C471-453B-95FC-DD84D038D44B}|Demo.csproj|C:\\Users\\tutok\\Downloads\\\u0110\u1ED3 \u00E1n B\u1EA3o m\u1EADt\\Demo\\mahoadoixungnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3E34B534-C471-453B-95FC-DD84D038D44B}|Demo.csproj|solutionrelative:mahoadoixungnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E34B534-C471-453B-95FC-DD84D038D44B}|Demo.csproj|C:\\Users\\tutok\\Downloads\\\u0110\u1ED3 \u00E1n B\u1EA3o m\u1EADt\\Demo\\mahoadoixungcong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E34B534-C471-453B-95FC-DD84D038D44B}|Demo.csproj|solutionrelative:mahoadoixungcong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E34B534-C471-453B-95FC-DD84D038D44B}|Demo.csproj|C:\\Users\\tutok\\Downloads\\\u0110\u1ED3 \u00E1n B\u1EA3o m\u1EADt\\Demo\\mahoadoixungcong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3E34B534-C471-453B-95FC-DD84D038D44B}|Demo.csproj|solutionrelative:mahoadoixungcong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E34B534-C471-453B-95FC-DD84D038D44B}|Demo.csproj|c:\\users\\tutok\\downloads\\\u0111\u1ED3 \u00E1n b\u1EA3o m\u1EADt\\demo\\mahoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E34B534-C471-453B-95FC-DD84D038D44B}|Demo.csproj|solutionrelative:mahoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E34B534-C471-453B-95FC-DD84D038D44B}|Demo.csproj|c:\\users\\tutok\\downloads\\\u0111\u1ED3 \u00E1n b\u1EA3o m\u1EADt\\demo\\mahoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3E34B534-C471-453B-95FC-DD84D038D44B}|Demo.csproj|solutionrelative:mahoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E34B534-C471-453B-95FC-DD84D038D44B}|Demo.csproj|C:\\Users\\tutok\\Downloads\\\u0110\u1ED3 \u00E1n B\u1EA3o m\u1EADt\\Demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E34B534-C471-453B-95FC-DD84D038D44B}|Demo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E34B534-C471-453B-95FC-DD84D038D44B}|Demo.csproj|c:\\users\\tutok\\downloads\\\u0111\u1ED3 \u00E1n b\u1EA3o m\u1EADt\\demo\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3E34B534-C471-453B-95FC-DD84D038D44B}|Demo.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E34B534-C471-453B-95FC-DD84D038D44B}|Demo.csproj|c:\\users\\tutok\\downloads\\\u0111\u1ED3 \u00E1n b\u1EA3o m\u1EADt\\demo\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E34B534-C471-453B-95FC-DD84D038D44B}|Demo.csproj|solutionrelative:database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E34B534-C471-453B-95FC-DD84D038D44B}|Demo.csproj|C:\\Users\\tutok\\Downloads\\\u0110\u1ED3 \u00E1n B\u1EA3o m\u1EADt\\Demo\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E34B534-C471-453B-95FC-DD84D038D44B}|Demo.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MaHoa.cs",
+              "DocumentMoniker": "C:\\Users\\tutok\\Downloads\\\u0110\u1ED3 \u00E1n B\u1EA3o m\u1EADt\\Demo\\MaHoa.cs",
+              "RelativeDocumentMoniker": "MaHoa.cs",
+              "ToolTip": "C:\\Users\\tutok\\Downloads\\\u0110\u1ED3 \u00E1n B\u1EA3o m\u1EADt\\Demo\\MaHoa.cs",
+              "RelativeToolTip": "MaHoa.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwB4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T11:39:19.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MaHoa.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tutok\\Downloads\\\u0110\u1ED3 \u00E1n B\u1EA3o m\u1EADt\\Demo\\MaHoa.cs",
+              "RelativeDocumentMoniker": "MaHoa.cs",
+              "ToolTip": "C:\\Users\\tutok\\Downloads\\\u0110\u1ED3 \u00E1n B\u1EA3o m\u1EADt\\Demo\\MaHoa.cs [Design]",
+              "RelativeToolTip": "MaHoa.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T11:30:28.71Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MaHoaDoiXungCong.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tutok\\Downloads\\\u0110\u1ED3 \u00E1n B\u1EA3o m\u1EADt\\Demo\\MaHoaDoiXungCong.cs",
+              "RelativeDocumentMoniker": "MaHoaDoiXungCong.cs",
+              "ToolTip": "C:\\Users\\tutok\\Downloads\\\u0110\u1ED3 \u00E1n B\u1EA3o m\u1EADt\\Demo\\MaHoaDoiXungCong.cs [Design]",
+              "RelativeToolTip": "MaHoaDoiXungCong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T11:00:08.46Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MaHoaDoiXungNhan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tutok\\Downloads\\\u0110\u1ED3 \u00E1n B\u1EA3o m\u1EADt\\Demo\\MaHoaDoiXungNhan.cs",
+              "RelativeDocumentMoniker": "MaHoaDoiXungNhan.cs",
+              "ToolTip": "C:\\Users\\tutok\\Downloads\\\u0110\u1ED3 \u00E1n B\u1EA3o m\u1EADt\\Demo\\MaHoaDoiXungNhan.cs [Design]",
+              "RelativeToolTip": "MaHoaDoiXungNhan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T11:00:08.459Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MaHoaDoiXungCong.cs",
+              "DocumentMoniker": "C:\\Users\\tutok\\Downloads\\\u0110\u1ED3 \u00E1n B\u1EA3o m\u1EADt\\Demo\\MaHoaDoiXungCong.cs",
+              "RelativeDocumentMoniker": "MaHoaDoiXungCong.cs",
+              "ToolTip": "C:\\Users\\tutok\\Downloads\\\u0110\u1ED3 \u00E1n B\u1EA3o m\u1EADt\\Demo\\MaHoaDoiXungCong.cs",
+              "RelativeToolTip": "MaHoaDoiXungCong.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAApwG0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T11:00:08.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MaHoaDoiXungNhan.cs",
+              "DocumentMoniker": "C:\\Users\\tutok\\Downloads\\\u0110\u1ED3 \u00E1n B\u1EA3o m\u1EADt\\Demo\\MaHoaDoiXungNhan.cs",
+              "RelativeDocumentMoniker": "MaHoaDoiXungNhan.cs",
+              "ToolTip": "C:\\Users\\tutok\\Downloads\\\u0110\u1ED3 \u00E1n B\u1EA3o m\u1EADt\\Demo\\MaHoaDoiXungNhan.cs",
+              "RelativeToolTip": "MaHoaDoiXungNhan.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAApwHgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T11:00:08.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tutok\\Downloads\\\u0110\u1ED3 \u00E1n B\u1EA3o m\u1EADt\\Demo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\tutok\\Downloads\\\u0110\u1ED3 \u00E1n B\u1EA3o m\u1EADt\\Demo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T11:00:08.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\tutok\\Downloads\\\u0110\u1ED3 \u00E1n B\u1EA3o m\u1EADt\\Demo\\Database.cs",
+              "RelativeDocumentMoniker": "Database.cs",
+              "ToolTip": "C:\\Users\\tutok\\Downloads\\\u0110\u1ED3 \u00E1n B\u1EA3o m\u1EADt\\Demo\\Database.cs",
+              "RelativeToolTip": "Database.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T11:16:53.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tutok\\Downloads\\\u0110\u1ED3 \u00E1n B\u1EA3o m\u1EADt\\Demo\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\tutok\\Downloads\\\u0110\u1ED3 \u00E1n B\u1EA3o m\u1EADt\\Demo\\Login.cs [Design]",
+              "RelativeToolTip": "Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T11:00:08.486Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\tutok\\Downloads\\\u0110\u1ED3 \u00E1n B\u1EA3o m\u1EADt\\Demo\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\tutok\\Downloads\\\u0110\u1ED3 \u00E1n B\u1EA3o m\u1EADt\\Demo\\Login.cs",
+              "RelativeToolTip": "Login.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAIAwwFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T11:00:08.491Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
